@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="352e929e-f269-42d4-8fb8-aaeee2702184" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="718">
+              <caret line="144" column="11" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="call.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/call.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="897" column="22" lean-forward="true" selection-start-line="897" selection-start-column="22" selection-end-line="897" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="owl.carousel.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.component-button.filled .btn-content</find>
+      <find>contact</find>
+      <find>.benefits_section</find>
+      <find>benefits_list</find>
+      <find>.benefits_section .benefit_item .text_block</find>
+      <find>wrapper</find>
+      <find>top-menu</find>
+      <find>Покрывало-полотенце</find>
+      <find>Можно использовать как покрывало или махровое полотенце</find>
+      <find>h2</find>
+      <find>catalog</find>
+      <find>btn-content</find>
+      <find>max-width</find>
+      <find>Выбра</find>
+      <find>.foot_img</find>
+      <find>reviews_section</find>
+      <find>owl-item</find>
+      <find>.benefits_section .benefit_item img</find>
+      <find>top-me</find>
+      <find>foot_ov</find>
+      <find>.btn-wrap .arrow</find>
+      <find>thankyou</find>
+      <find>overlay</find>
+      <find>console</find>
+      <find>form</find>
+      <find>onsubmit=&quot;if(this.name.value==''){alert('Введите Ваше имя');return false}if(this.tel.value==''){alert('Введите Ваш номер телефона');return false}return true;</find>
+      <find>onsubmit=&quot;if(this.name.value==''){alert('Введите Ваше имя');return false}if(this.tel.value==''){alert('Введите Ваш номер телефона');return false}return true;&quot;</find>
+      <find>Спаси</find>
+      <find>products_list</find>
+      <find>.close_cart</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/owl.carousel.min.css" />
+        <option value="$PROJECT_DIR$/css/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/app/call.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="274" />
+    <option name="y" value="365" />
+    <option name="width" value="1400" />
+    <option name="height" value="648" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sum.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sum.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sum.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sum.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sum.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sum.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sum.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sum.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352e929e-f269-42d4-8fb8-aaeee2702184" name="Default" comment="" />
+      <created>1528911180254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528911180254</updated>
+      <workItem from="1528911181472" duration="13941000" />
+      <workItem from="1528952115023" duration="16957000" />
+      <workItem from="1528970691502" duration="6932000" />
+      <workItem from="1529041034518" duration="2369000" />
+      <workItem from="1529059305024" duration="616000" />
+      <workItem from="1529062704498" duration="1112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47465000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11567164" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49351">
+          <caret line="2903" column="18" selection-start-line="2903" selection-start-column="18" selection-end-line="2903" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/call.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11441">
+          <caret line="673" column="1" lean-forward="true" selection-start-line="673" selection-start-column="1" selection-end-line="673" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49351">
+          <caret line="2903" column="18" selection-start-line="2903" selection-start-column="18" selection-end-line="2903" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="35" lean-forward="true" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/call.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11441">
+          <caret line="673" column="17" selection-start-line="673" selection-start-column="17" selection-end-line="673" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48960">
+          <caret line="2880" column="30" selection-start-line="2880" selection-start-column="30" selection-end-line="2880" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/call.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11390">
+          <caret line="670" column="14" selection-start-line="670" selection-start-column="14" selection-end-line="670" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22338">
+          <caret line="1356" column="32" selection-start-line="1356" selection-start-column="32" selection-end-line="1356" selection-end-column="32" />
+          <caret line="1398" column="32" selection-start-line="1398" selection-start-column="32" selection-end-line="1398" selection-end-column="32" />
+          <caret line="1440" column="32" selection-start-line="1440" selection-start-column="32" selection-end-line="1440" selection-end-column="32" />
+          <caret line="1482" column="32" selection-start-line="1482" selection-start-column="32" selection-end-line="1482" selection-end-column="32" />
+          <caret line="1525" column="32" selection-start-line="1525" selection-start-column="32" selection-end-line="1525" selection-end-column="32" />
+          <caret line="1568" column="32" selection-start-line="1568" selection-start-column="32" selection-end-line="1568" selection-end-column="32" />
+          <caret line="1610" column="32" selection-start-line="1610" selection-start-column="32" selection-end-line="1610" selection-end-column="32" />
+          <caret line="1652" column="32" selection-start-line="1652" selection-start-column="32" selection-end-line="1652" selection-end-column="32" />
+          <caret line="1694" column="32" selection-start-line="1694" selection-start-column="32" selection-end-line="1694" selection-end-column="32" />
+          <caret line="1736" column="32" selection-start-line="1736" selection-start-column="32" selection-end-line="1736" selection-end-column="32" />
+          <caret line="1785" column="32" selection-start-line="1785" selection-start-column="32" selection-end-line="1785" selection-end-column="32" />
+          <caret line="1828" column="32" selection-start-line="1828" selection-start-column="32" selection-end-line="1828" selection-end-column="32" />
+          <caret line="1871" column="32" selection-start-line="1871" selection-start-column="32" selection-end-line="1871" selection-end-column="32" />
+          <caret line="1914" column="32" selection-start-line="1914" selection-start-column="32" selection-end-line="1914" selection-end-column="32" />
+          <caret line="1957" column="32" selection-start-line="1957" selection-start-column="32" selection-end-line="1957" selection-end-column="32" />
+          <caret line="2000" column="32" selection-start-line="2000" selection-start-column="32" selection-end-line="2000" selection-end-column="32" />
+          <caret line="2043" column="32" selection-start-line="2043" selection-start-column="32" selection-end-line="2043" selection-end-column="32" />
+          <caret line="2086" column="32" selection-start-line="2086" selection-start-column="32" selection-end-line="2086" selection-end-column="32" />
+          <caret line="2132" column="32" selection-start-line="2132" selection-start-column="32" selection-end-line="2132" selection-end-column="32" />
+          <caret line="2174" column="32" selection-start-line="2174" selection-start-column="32" selection-end-line="2174" selection-end-column="32" />
+          <caret line="2216" column="32" selection-start-line="2216" selection-start-column="32" selection-end-line="2216" selection-end-column="32" />
+          <caret line="2258" column="32" selection-start-line="2258" selection-start-column="32" selection-end-line="2258" selection-end-column="32" />
+          <caret line="2300" column="32" selection-start-line="2300" selection-start-column="32" selection-end-line="2300" selection-end-column="32" />
+          <caret line="2342" column="32" selection-start-line="2342" selection-start-column="32" selection-end-line="2342" selection-end-column="32" />
+          <caret line="2384" column="32" selection-start-line="2384" selection-start-column="32" selection-end-line="2384" selection-end-column="32" />
+          <caret line="2426" column="32" selection-start-line="2426" selection-start-column="32" selection-end-line="2426" selection-end-column="32" />
+          <caret line="2472" column="32" selection-start-line="2472" selection-start-column="32" selection-end-line="2472" selection-end-column="32" />
+          <caret line="2514" column="32" selection-start-line="2514" selection-start-column="32" selection-end-line="2514" selection-end-column="32" />
+          <caret line="2556" column="32" selection-start-line="2556" selection-start-column="32" selection-end-line="2556" selection-end-column="32" />
+          <caret line="2598" column="32" selection-start-line="2598" selection-start-column="32" selection-end-line="2598" selection-end-column="32" />
+          <caret line="2640" column="32" selection-start-line="2640" selection-start-column="32" selection-end-line="2640" selection-end-column="32" />
+          <caret line="2682" column="32" selection-start-line="2682" selection-start-column="32" selection-end-line="2682" selection-end-column="32" />
+          <caret line="2724" column="32" selection-start-line="2724" selection-start-column="32" selection-end-line="2724" selection-end-column="32" />
+          <caret line="233" column="32" selection-start-line="233" selection-start-column="32" selection-end-line="233" selection-end-column="32" />
+          <caret line="276" column="32" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+          <caret line="318" column="32" selection-start-line="318" selection-start-column="32" selection-end-line="318" selection-end-column="32" />
+          <caret line="360" column="32" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
+          <caret line="402" column="32" selection-start-line="402" selection-start-column="32" selection-end-line="402" selection-end-column="32" />
+          <caret line="445" column="32" selection-start-line="445" selection-start-column="32" selection-end-line="445" selection-end-column="32" />
+          <caret line="488" column="32" selection-start-line="488" selection-start-column="32" selection-end-line="488" selection-end-column="32" />
+          <caret line="530" column="32" selection-start-line="530" selection-start-column="32" selection-end-line="530" selection-end-column="32" />
+          <caret line="572" column="32" selection-start-line="572" selection-start-column="32" selection-end-line="572" selection-end-column="32" />
+          <caret line="615" column="32" selection-start-line="615" selection-start-column="32" selection-end-line="615" selection-end-column="32" />
+          <caret line="658" column="32" selection-start-line="658" selection-start-column="32" selection-end-line="658" selection-end-column="32" />
+          <caret line="701" column="32" selection-start-line="701" selection-start-column="32" selection-end-line="701" selection-end-column="32" />
+          <caret line="746" column="46" selection-start-line="746" selection-start-column="46" selection-end-line="746" selection-end-column="46" />
+          <caret line="789" column="46" selection-start-line="789" selection-start-column="46" selection-end-line="789" selection-end-column="46" />
+          <caret line="833" column="46" selection-start-line="833" selection-start-column="46" selection-end-line="833" selection-end-column="46" />
+          <caret line="876" column="46" selection-start-line="876" selection-start-column="46" selection-end-line="876" selection-end-column="46" />
+          <caret line="920" column="46" selection-start-line="920" selection-start-column="46" selection-end-line="920" selection-end-column="46" />
+          <caret line="965" column="46" selection-start-line="965" selection-start-column="46" selection-end-line="965" selection-end-column="46" />
+          <caret line="1009" column="46" selection-start-line="1009" selection-start-column="46" selection-end-line="1009" selection-end-column="46" />
+          <caret line="1053" column="46" selection-start-line="1053" selection-start-column="46" selection-end-line="1053" selection-end-column="46" />
+          <caret line="1097" column="46" selection-start-line="1097" selection-start-column="46" selection-end-line="1097" selection-end-column="46" />
+          <caret line="1141" column="46" selection-start-line="1141" selection-start-column="46" selection-end-line="1141" selection-end-column="46" />
+          <caret line="1185" column="46" selection-start-line="1185" selection-start-column="46" selection-end-line="1185" selection-end-column="46" />
+          <caret line="1229" column="46" selection-start-line="1229" selection-start-column="46" selection-end-line="1229" selection-end-column="46" />
+          <caret line="1272" column="32" selection-start-line="1272" selection-start-column="32" selection-end-line="1272" selection-end-column="32" />
+          <caret line="1314" column="32" selection-start-line="1314" selection-start-column="32" selection-end-line="1314" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="636" column="31" selection-start-line="636" selection-start-column="31" selection-end-line="636" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48552">
+          <caret line="2856" column="60" selection-start-line="2856" selection-start-column="60" selection-end-line="2856" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13090">
+          <caret line="770" column="199" selection-start-line="770" selection-start-column="199" selection-end-line="770" selection-end-column="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/items/lam3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="15730" column="12" selection-start-line="15730" selection-start-column="12" selection-end-line="15730" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.lazy.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="636" column="31" selection-start-line="636" selection-start-column="31" selection-end-line="636" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1356" column="32" selection-start-line="1356" selection-start-column="32" selection-end-line="1356" selection-end-column="32" />
+          <caret line="1398" column="32" selection-start-line="1398" selection-start-column="32" selection-end-line="1398" selection-end-column="32" />
+          <caret line="1440" column="32" selection-start-line="1440" selection-start-column="32" selection-end-line="1440" selection-end-column="32" />
+          <caret line="1482" column="32" selection-start-line="1482" selection-start-column="32" selection-end-line="1482" selection-end-column="32" />
+          <caret line="1525" column="32" selection-start-line="1525" selection-start-column="32" selection-end-line="1525" selection-end-column="32" />
+          <caret line="1568" column="32" selection-start-line="1568" selection-start-column="32" selection-end-line="1568" selection-end-column="32" />
+          <caret line="1610" column="32" selection-start-line="1610" selection-start-column="32" selection-end-line="1610" selection-end-column="32" />
+          <caret line="1652" column="32" selection-start-line="1652" selection-start-column="32" selection-end-line="1652" selection-end-column="32" />
+          <caret line="1694" column="32" selection-start-line="1694" selection-start-column="32" selection-end-line="1694" selection-end-column="32" />
+          <caret line="1736" column="32" selection-start-line="1736" selection-start-column="32" selection-end-line="1736" selection-end-column="32" />
+          <caret line="1785" column="32" selection-start-line="1785" selection-start-column="32" selection-end-line="1785" selection-end-column="32" />
+          <caret line="1828" column="32" selection-start-line="1828" selection-start-column="32" selection-end-line="1828" selection-end-column="32" />
+          <caret line="1871" column="32" selection-start-line="1871" selection-start-column="32" selection-end-line="1871" selection-end-column="32" />
+          <caret line="1914" column="32" selection-start-line="1914" selection-start-column="32" selection-end-line="1914" selection-end-column="32" />
+          <caret line="1957" column="32" selection-start-line="1957" selection-start-column="32" selection-end-line="1957" selection-end-column="32" />
+          <caret line="2000" column="32" selection-start-line="2000" selection-start-column="32" selection-end-line="2000" selection-end-column="32" />
+          <caret line="2043" column="32" selection-start-line="2043" selection-start-column="32" selection-end-line="2043" selection-end-column="32" />
+          <caret line="2086" column="32" selection-start-line="2086" selection-start-column="32" selection-end-line="2086" selection-end-column="32" />
+          <caret line="2132" column="32" selection-start-line="2132" selection-start-column="32" selection-end-line="2132" selection-end-column="32" />
+          <caret line="2174" column="32" selection-start-line="2174" selection-start-column="32" selection-end-line="2174" selection-end-column="32" />
+          <caret line="2216" column="32" selection-start-line="2216" selection-start-column="32" selection-end-line="2216" selection-end-column="32" />
+          <caret line="2258" column="32" selection-start-line="2258" selection-start-column="32" selection-end-line="2258" selection-end-column="32" />
+          <caret line="2300" column="32" selection-start-line="2300" selection-start-column="32" selection-end-line="2300" selection-end-column="32" />
+          <caret line="2342" column="32" selection-start-line="2342" selection-start-column="32" selection-end-line="2342" selection-end-column="32" />
+          <caret line="2384" column="32" selection-start-line="2384" selection-start-column="32" selection-end-line="2384" selection-end-column="32" />
+          <caret line="2426" column="32" selection-start-line="2426" selection-start-column="32" selection-end-line="2426" selection-end-column="32" />
+          <caret line="2472" column="32" selection-start-line="2472" selection-start-column="32" selection-end-line="2472" selection-end-column="32" />
+          <caret line="2514" column="32" selection-start-line="2514" selection-start-column="32" selection-end-line="2514" selection-end-column="32" />
+          <caret line="2556" column="32" selection-start-line="2556" selection-start-column="32" selection-end-line="2556" selection-end-column="32" />
+          <caret line="2598" column="32" selection-start-line="2598" selection-start-column="32" selection-end-line="2598" selection-end-column="32" />
+          <caret line="2640" column="32" selection-start-line="2640" selection-start-column="32" selection-end-line="2640" selection-end-column="32" />
+          <caret line="2682" column="32" selection-start-line="2682" selection-start-column="32" selection-end-line="2682" selection-end-column="32" />
+          <caret line="2724" column="32" selection-start-line="2724" selection-start-column="32" selection-end-line="2724" selection-end-column="32" />
+          <caret line="233" column="32" selection-start-line="233" selection-start-column="32" selection-end-line="233" selection-end-column="32" />
+          <caret line="276" column="32" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+          <caret line="318" column="32" selection-start-line="318" selection-start-column="32" selection-end-line="318" selection-end-column="32" />
+          <caret line="360" column="32" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
+          <caret line="402" column="32" selection-start-line="402" selection-start-column="32" selection-end-line="402" selection-end-column="32" />
+          <caret line="445" column="32" selection-start-line="445" selection-start-column="32" selection-end-line="445" selection-end-column="32" />
+          <caret line="488" column="32" selection-start-line="488" selection-start-column="32" selection-end-line="488" selection-end-column="32" />
+          <caret line="530" column="32" selection-start-line="530" selection-start-column="32" selection-end-line="530" selection-end-column="32" />
+          <caret line="572" column="32" selection-start-line="572" selection-start-column="32" selection-end-line="572" selection-end-column="32" />
+          <caret line="615" column="32" selection-start-line="615" selection-start-column="32" selection-end-line="615" selection-end-column="32" />
+          <caret line="658" column="32" selection-start-line="658" selection-start-column="32" selection-end-line="658" selection-end-column="32" />
+          <caret line="701" column="32" selection-start-line="701" selection-start-column="32" selection-end-line="701" selection-end-column="32" />
+          <caret line="746" column="46" selection-start-line="746" selection-start-column="46" selection-end-line="746" selection-end-column="46" />
+          <caret line="789" column="46" selection-start-line="789" selection-start-column="46" selection-end-line="789" selection-end-column="46" />
+          <caret line="833" column="46" selection-start-line="833" selection-start-column="46" selection-end-line="833" selection-end-column="46" />
+          <caret line="876" column="46" selection-start-line="876" selection-start-column="46" selection-end-line="876" selection-end-column="46" />
+          <caret line="920" column="46" selection-start-line="920" selection-start-column="46" selection-end-line="920" selection-end-column="46" />
+          <caret line="965" column="46" selection-start-line="965" selection-start-column="46" selection-end-line="965" selection-end-column="46" />
+          <caret line="1009" column="46" selection-start-line="1009" selection-start-column="46" selection-end-line="1009" selection-end-column="46" />
+          <caret line="1053" column="46" selection-start-line="1053" selection-start-column="46" selection-end-line="1053" selection-end-column="46" />
+          <caret line="1097" column="46" selection-start-line="1097" selection-start-column="46" selection-end-line="1097" selection-end-column="46" />
+          <caret line="1141" column="46" selection-start-line="1141" selection-start-column="46" selection-end-line="1141" selection-end-column="46" />
+          <caret line="1185" column="46" selection-start-line="1185" selection-start-column="46" selection-end-line="1185" selection-end-column="46" />
+          <caret line="1229" column="46" selection-start-line="1229" selection-start-column="46" selection-end-line="1229" selection-end-column="46" />
+          <caret line="1272" column="32" selection-start-line="1272" selection-start-column="32" selection-end-line="1272" selection-end-column="32" />
+          <caret line="1314" column="32" selection-start-line="1314" selection-start-column="32" selection-end-line="1314" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48552">
+          <caret line="2856" column="60" selection-start-line="2856" selection-start-column="60" selection-end-line="2856" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13090">
+          <caret line="770" column="199" selection-start-line="770" selection-start-column="199" selection-end-line="770" selection-end-column="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/items/lam3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="15730" column="12" selection-start-line="15730" selection-start-column="12" selection-end-line="15730" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.lazy.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_7.php" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/call.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="897" column="22" lean-forward="true" selection-start-line="897" selection-start-column="22" selection-end-line="897" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="144" column="11" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
