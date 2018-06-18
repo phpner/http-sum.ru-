@@ -800,7 +800,7 @@ h2{font-size:30px;line-height:36px;}
 .price_wrapper{float:none;margin:0;width:320px;}
 .info{float:none;margin-top:0;}
 .models_count{display:none;}
-.timer_block{position:absolute;top:119px;left:23px;}
+.timer_block{position:absolute;top:174;left:23px;}
 .discount{font-size:18px;line-height:28px;}
 .offer_section.offer_top .discount{top:82px;left:383px;}
 .offer_section.offer_bottom .discount{-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-ms-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg);top:82px;left:383px;}
