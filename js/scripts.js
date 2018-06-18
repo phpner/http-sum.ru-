@@ -72,7 +72,9 @@ $(function() {
 		$("#cart"+op).fadeOut();
 	});
 
-    $( window ).resize(function() {
+
+
+   $( window ).resize(function() {
 
         var w = $(window).width();
         if(w > 720 && $(".menu-holder").is(":hidden") ){
